@@ -1,7 +1,7 @@
 import QR from './QR';
 import CardTitle from './CardTitle';
-import imgUrl from '../assets/images/image-qr-code.png';
 import CardBody from './CardBody';
+import imgUrl from '../assets/images/image-qr-code.png';
 import { CARD_INSTRUCTIONS, CARD_HEADING } from '../constants';
 
 const Card = () => {
