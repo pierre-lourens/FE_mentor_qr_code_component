@@ -1,11 +1,12 @@
-import './index.css'
-import Card from './components/Card'
+import './index.css';
+import Card from './components/Card';
 
 function App() {
-
   return (
-    <Card />
-  )
+    <div className="h-screen bg-light-gray">
+      <Card />
+    </div>
+  );
 }
 
-export default App
+export default App;
