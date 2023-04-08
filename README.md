@@ -55,4 +55,4 @@ I'd like to do more Tailwind practice until the syntax becomes second nature. Wo
 
 ## Author
 
-- LinkedIn - [Pierre Lourens](https://www.linkedin.com/in/pierre-lourens)
+- LinkedIn - [Pierre Lourens](https://www.linkedin.com/in/pierrelourens)
